@@ -23,7 +23,7 @@ Una aplicación de temporizador Pomodoro simple pero efectiva, desarrollada con 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/BladimirMatias/AppPomodoro
+   git clone https://github.com/joacoglsk/PPomodoro.git
 Instala las dependencias:
 
 bash
