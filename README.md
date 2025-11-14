@@ -1,5 +1,5 @@
-# 🍅 Pomodoro Timer App
-![image](https://github.com/user-attachments/assets/43f84800-e44c-4e89-aecc-7221c68b7b08)
+#Pomodoro App
+
 
 Una aplicación de temporizador Pomodoro simple pero efectiva, desarrollada con React Native. Perfecta para mejorar tu productividad usando la técnica Pomodoro.
 
