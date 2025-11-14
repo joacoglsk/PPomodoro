@@ -75,7 +75,7 @@ Haz push a la rama (git push origin feature/nueva-funcionalidad)
 
 Abre un Pull Request
 
-📜 Licencia
-MIT © BladimirMatias
+© Derechos
+Joacoglsk - Joaquin Gomez Glasiuk
 
 Hecho con React Native
